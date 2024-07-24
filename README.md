@@ -1,0 +1,1 @@
+Welcome to my personal portfolio repository! I am Karan Purohit, a Bachelor of Technology student majoring in Computer Science and Engineering. This portfolio showcases my projects, skills, and experiences in the field of technology, with a particular focus on data analytics, machine learning, and data visualization.
